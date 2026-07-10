@@ -33,17 +33,22 @@ I enjoy building secure, automated, and scalable cloud solutions while documenti
 
 ## 📌 Featured Projects
 
-* 🚀 Linux & Web Server Administration
-* ☁️ AWS Cloud Labs
-* 🔄 Flask CI/CD Pipeline (Jenkins & GitHub Actions)
-* 🐳 Docker & Containerization
-* ☸️ Kubernetes on Amazon EKS
+* 🐧 Linux & Web Server Administration
+* ☁️ MERN Application Deployment on AWS EC2
+* ⚡ AWS Serverless Automation
+* 🌿 Git & GitHub Workflow
 
-> More production-ready projects are being added regularly.
+
+
+> More production-style projects are planned to be added.
+> * 🔄 Flask CI/CD Pipeline (Jenkins & GitHub Actions)
+> * 🐳 Docker & Containerization
+> * ☸️ Kubernetes on Amazon EKS
+
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinku-chauhan&theme=github_dark" />
@@ -60,7 +65,7 @@ I enjoy building secure, automated, and scalable cloud solutions while documenti
 * Kubernetes
 * Terraform
 * GitOps (Argo CD)
-* AWS DevOps
+* Muti-Cloud Architecture (AWS, Azure and GCP)
 * Infrastructure Automation
 
 ---
