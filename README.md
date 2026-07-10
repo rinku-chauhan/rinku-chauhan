@@ -43,14 +43,17 @@ I enjoy building secure, automated, and scalable cloud solutions while documenti
 
 ---
 
-## 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rinku-chauhan&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rinku-chauhan&layout=compact&theme=github_dark&hide_border=true)
-![GitHub Streak](https://streak-stats.demolab.com?user=rinku-chauhan&theme=github-dark&hide_border=true)
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinku-chauhan&theme=github_dark)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinku-chauhan&theme=github_dark" />
+</p>
 
----
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rinku-chauhan&theme=github-dark)](https://github.com/rinku-chauhan)
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=rinku-chauhan&theme=github-dark&hide_border=true"/>
+</p>
 
 ## 🌱 Currently Learning
 
