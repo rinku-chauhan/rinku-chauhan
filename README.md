@@ -23,7 +23,7 @@ I enjoy building secure, automated, and scalable cloud solutions while documenti
 
 **DevOps:** Docker • Kubernetes • Jenkins • GitHub Actions • Terraform
 
-**Languages:** Python • Bash
+**Languages:** Python (basic) • Bash
 
 **Web & OS:** Nginx • Apache • Linux • Windows
 
