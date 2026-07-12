@@ -70,7 +70,7 @@ I enjoy building secure, automated, and scalable cloud solutions while documenti
 
 ---
 
-## 📫 Connect
+## 📫 Let's connect
 
 * 💼 LinkedIn: https://linkedin.com/in/rinku-chauhan
 * 📧 Email: rinku.chn20@gmail.com
