@@ -41,7 +41,6 @@ I enjoy building secure, automated, and scalable cloud solutions while documenti
 
 
 > More production-style projects are planned to be added.
-> * 🔄 Flask CI/CD Pipeline (Jenkins & GitHub Actions)
 > * 🐳 Docker & Containerization
 > * ☸️ Kubernetes on Amazon EKS
 
