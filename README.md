@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Rinku Chauhan
+# 👋 Hi, I'm Rinku Chauhan
 
 ### Senior System Engineer → DevOps & Cloud Engineer
 
@@ -168,6 +168,6 @@ Practical Git workflows including branching strategies, Git LFS, Git Stash, and 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CA1AF,100:2C3E50&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:58A6FF,100:9333EA"/>
 
 </div>
