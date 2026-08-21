@@ -14,11 +14,14 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+</a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4CA1AF&center=true&vCenter=true&width=650&lines=8%2B+Years+in+Infrastructure+%26+Systems+Engineering;Transitioning+into+DevOps+%26+Cloud+Engineering;Automating+everything+that+can+be+automated+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4CA1AF&center=true&vCenter=true&width=650&height=30&lines=8%2B+Years+in+Infrastructure+%26+Systems+Engineering;Transitioning+into+DevOps+%26+Cloud+Engineering;Automating+everything+that+can+be+automated+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 
 </div>
+
 
 8 years of experience in infrastructure support, now applying that operational depth to modern **DevOps, cloud automation, and CI/CD engineering**. I build secure, automated, and scalable cloud solutions — and document the journey as I go.
 
@@ -144,12 +147,9 @@ Practical Git workflows including branching strategies, Git LFS, Git Stash, and 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinku-chauhan&theme=github_dark" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=rinku-chauhan&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rinku-chauhan&layout=compact&theme=github_dark&hide_border=true" width="30%" />
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rinku-chauhan&theme=github-dark&hide_border=true)](https://github.com/rinku-chauhan)
 
-<img src="https://streak-stats.demolab.com?user=rinku-chauhan&theme=github-dark&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=rinku-chauhan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
