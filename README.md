@@ -14,12 +14,11 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-</a>
-
-
-<br/>
+<br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4CA1AF&center=true&vCenter=true&width=650&height=30&lines=8%2B+Years+in+Infrastructure+%26+Systems+Engineering;Transitioning+into+DevOps+%26+Cloud+Engineering;Automating+everything+that+can+be+automated+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+
+<br/><br/>
 
 </div>
 
