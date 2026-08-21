@@ -16,8 +16,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4CA1AF&center=true&vCenter=true&width=700&height=40&lines=8%2B+Years+in+Infrastructure+%26+Systems+Engineering;Transitioning+into+DevOps+%26+Cloud+Engineering;Automating+everything+that+can+be+automated+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4CA1AF&center=true&vCenter=true&width=700&height=40&lines=8%2B+Years+in+Infrastructure+%26+Systems+Engineering;Advancing+into+DevOps+%26+Cloud+Engineering;Automating+everything+that+can+be+automated+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 <br/><br/>
 
 </div>
