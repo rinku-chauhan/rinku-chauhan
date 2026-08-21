@@ -16,6 +16,7 @@
 
 </a>
 
+
 <br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4CA1AF&center=true&vCenter=true&width=650&height=30&lines=8%2B+Years+in+Infrastructure+%26+Systems+Engineering;Transitioning+into+DevOps+%26+Cloud+Engineering;Automating+everything+that+can+be+automated+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
@@ -59,6 +60,12 @@ status:      Open to DevOps & Cloud Engineering opportunities
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
 
+**Observability & Monitoring**
+
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
+
 **Scripting & Languages**
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -75,6 +82,8 @@ status:      Open to DevOps & Cloud Engineering opportunities
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+</div>
 
 </div>
 
