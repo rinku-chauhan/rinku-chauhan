@@ -22,7 +22,7 @@
 </div>
 
 
-8 years of experience in infrastructure support, now applying that operational depth to modern **DevOps, cloud automation, and CI/CD engineering**. I build secure, automated, and scalable cloud solutions — and document the journey as I go.
+9+ years of experience in infrastructure support, now applying that operational depth to modern **DevOps, cloud automation, and CI/CD engineering**. I build secure, automated, and scalable cloud solutions — and document the journey as I go.
 
 <br/>
 
@@ -30,7 +30,7 @@
 
 ```yaml
 role:        Senior System Engineer → DevOps & Cloud Engineer
-experience:  8+ years in Infrastructure IT Support
+experience:  9+ years in Infrastructure IT Support
 currently:   Pursuing a Postgraduate Program in Multi Cloud Architecture & DevOps
 focus:       Building real-world DevOps projects from the ground up
 status:      Open to DevOps & Cloud Engineering opportunities
@@ -58,7 +58,7 @@ status:      Open to DevOps & Cloud Engineering opportunities
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
 <img src="https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white" />
 
-**Observability & Monitoring**
+**Monitoring**
 
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
 <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
@@ -66,7 +66,6 @@ status:      Open to DevOps & Cloud Engineering opportunities
 
 **Scripting & Languages**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
 
 **Web Servers & OS**
@@ -154,7 +153,8 @@ Practical Git workflows including branching strategies, Git LFS, Git Stash, and 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rinku-chauhan&theme=github_dark" />
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rinku-chauhan&theme=github-dark&hide_border=true)](https://github.com/rinku-chauhan)
+
+[![Rinku Chauhan's GitHub Activity Graph](https://jeskei-readme-activity-graph.vercel.app/graph?username=rinku-chauhan&theme=github-dark&hide_border=true)](https://github.com/rinku-chauhan)
 
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=rinku-chauhan&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
