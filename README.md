@@ -29,11 +29,11 @@
 ## 🚀 About Me
 
 ```yaml
-role:        Senior System Engineer → DevOps & Cloud Engineer
-experience:  9+ years in Infrastructure IT Support
+role:            Senior System Engineer → DevOps & Cloud Engineer
+experience:      9+ years in Infrastructure IT Support
 certification:   Postgraduate Program in Multi Cloud Architecture & DevOps (Oct 2026)
-focus:       Building real-world DevOps projects from the ground up
-status:      Open to DevOps & Cloud Engineering opportunities
+focus:           Building real-world DevOps projects from the ground up
+status:          Open to DevOps & Cloud Engineering opportunities
 ```
 
 <br/>
