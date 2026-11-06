@@ -16,7 +16,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4CA1AF&center=true&vCenter=true&width=700&height=40&lines=8%2B+Years+in+Infrastructure+%26+Systems+Engineering;Advancing+into+DevOps+%26+Cloud+Engineering;Automating+everything+that+can+be+automated+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4CA1AF&center=true&vCenter=true&width=700&height=40&lines=9%2B+Years+in+Infrastructure+%26+Systems+Engineering;Advancing+into+DevOps+%26+Cloud+Engineering;Automating+everything+that+can+be+automated+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 <br/><br/>
 
 </div>
@@ -31,7 +31,7 @@
 ```yaml
 role:            Senior System Engineer → DevOps & Cloud Engineer
 experience:      9+ years in Infrastructure IT Support
-certification:   Postgraduate Program in Multi Cloud Architecture & DevOps (Oct 2026)
+certification:   Postgraduate Program in Multi Cloud Architecture & DevOps (Hero Vired) —— Oct 2026 
 focus:           Building real-world DevOps projects from the ground up
 status:          Open to DevOps & Cloud Engineering opportunities
 ```
